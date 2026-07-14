@@ -1,0 +1,1 @@
+This folder is will serve as the inital file location for all frontend functions

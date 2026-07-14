@@ -1,0 +1,2 @@
+This folder will serve as the primary file location for all backend functions 
+until later updates are made
