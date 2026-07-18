@@ -8,6 +8,7 @@ users to build or upgrade aquariums for their home or business and provide compo
 - Estimate budgets
 - Descriptions of products, components, and aquarium inhabitants
 - Check compatibility
+- Authenticator
 
 
 ## Roadmap
